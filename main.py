@@ -3,10 +3,10 @@ from spotipy.oauth2 import SpotifyOAuth
 from os import environ
 import json
 
-# Needs to be removed lol
+# get this info from spotify dev dashboard
 """
-SET SPOTIPY_CLIENT_ID='0395ebe9ec5f4eee9d86aad2edd60340'
-SET SPOTIPY_CLIENT_SECRET='699fbeb75cb943759f6bf7485921e06b'
+SET SPOTIPY_CLIENT_ID='client id'
+SET SPOTIPY_CLIENT_SECRET='client secret'
 SET SPOTIPY_REDIRECT_URI='http://localhost'
 """
 
